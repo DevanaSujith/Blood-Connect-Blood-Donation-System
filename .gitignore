@@ -1,0 +1,6 @@
+.env
+certificates/
+certificate*.jpeg
+certificate*.jpg
+certificate*.png
+__pycache__/
