@@ -1,7 +1,9 @@
 🩸 Blood Connect – Blood Donation Management System
+
 Blood Connect is a college mini project developed as a team project to connect blood donors with patients through a digital blood donation management platform.
 
 📌 Project Overview
+
 The system helps users register as donors, search available donors, send emergency blood requests, and manage donation records efficiently.
 
 ✨ Features
